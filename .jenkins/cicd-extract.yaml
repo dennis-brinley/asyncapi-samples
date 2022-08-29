@@ -9,11 +9,11 @@ applicationName: Customer Facing Mobile Application
 applicationVersionId: hxd36iqulyh
 eventApiStateId: 1
 eventApiStateName: DRAFT
-environment: development
+environment: test
 modelledEventMesh: acme-retail Store
 modelledEventMeshId: 46h17klzg1n
 eventPortalEnvironmentId: bvmn5likrk2
-logicalBroker: logical_broker_b
+logicalBroker: logical_broker_c
 queueDefinitions:
 - queueName: CreatedHREvents
   queueSettings:
