@@ -1,6 +1,6 @@
 ---
 servers:
-  integration:
+  test:
     url: integration-test-env
     description: Integration Test Environment
     protocol: solace
@@ -18,7 +18,7 @@ servers:
     x-ep-modelled-event-mesh-id: 46h17klzg1n
     x-ep-environment-id: bvmn5likrk2
     x-ep-logical-broker: logical_broker_b
-  production:
+  preprod:
     url: production-env
     description: Production Environment
     protocol: solace
