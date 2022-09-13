@@ -30,7 +30,7 @@ servers:
 components:
   schemas:
     PersonSchema_0_1_0:
-      x-schema-version: 0.1.0
+      x-schema-version: 0.2.0
       x-schema-version-displayname: PersonSchema0.1.0
       "$schema": http://json-schema.org/draft-07/schema#
       x-schema-name: PersonSchema
@@ -121,7 +121,7 @@ asyncapi: 2.0.0
 info:
   title: acme-retail-customer-mobile
   description: AsyncAPI for Customer Facing Mobile Application
-  version: 0.2.0
+  version: 0.3.0
   x-event-api-state-id: '1'
   x-event-api-state-name: DRAFT
   x-application-domain-id: 9n3oj6yfxm3
